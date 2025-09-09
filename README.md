@@ -23,7 +23,7 @@ This is a simple Go application that uses Perlin noise to generate random world 
 
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/your-username/rpg-world-map-generator.git
+    git clone https://github.com/IcaroOm/map_gen_golang.git
     ```
 2.  Go to the project directory:
     ```bash
